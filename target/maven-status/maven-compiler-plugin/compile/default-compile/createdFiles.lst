@@ -1,0 +1,7 @@
+service\ArmaService.class
+view\ArmaView.class
+model\Arma.class
+dao\impl\ArmaDAOImpl.class
+service\impl\ArmaServiceImpl.class
+controller\ArmaController.class
+dao\ArmaDAO.class
